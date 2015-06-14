@@ -1,16 +1,14 @@
 ---
 layout: page
-title: About
+title: About USO
 permalink: /about/
 ---
 
-Nothing!
-
 ### About USO
 
-USO is short for Unidentified Submerged Object.
-Also, uso represent うそ.
-So life is uso.
+<p>USO is short for Unidentified Submerged Object.</p>
+<p>Also, uso represent うそ.</p>
+<p>So life is uso.</p>
 
 ### Contact me
 
