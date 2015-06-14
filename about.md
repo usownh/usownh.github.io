@@ -4,12 +4,14 @@ title: About
 permalink: /about/
 ---
 
-Some information about you!
+Nothing!
 
-### More Information
+### About USO
 
-A place to include any other types of information that you'd like to include about yourself.
+USO is short for Unidentified Submerged Object.
+Also, uso represent うそ.
+So life is uso.
 
 ### Contact me
 
-[email@domain.com](mailto:email@domain.com)
+[usownh@qq.com](mailto:usownh@qq.com)
