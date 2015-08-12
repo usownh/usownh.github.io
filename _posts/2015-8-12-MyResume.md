@@ -45,12 +45,6 @@ punctuation'>
  </tr>
 </table>
 
-<p class=MsoNormal align=left style='text-align:left;background:#CCCCCC'><b
-style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:12.0pt;
-mso-bidi-font-size:11.0pt;font-family:"Times New Roman","serif"'>Objective<o:p></o:p></span></b></p>
-
-<p class=MsoNormal><span lang=EN-US style='font-family:"Times New Roman","serif"'>Software
-Development Engineer<o:p></o:p></span></p>
 
 <p class=MsoNormal align=left style='text-align:left;background:#CCCCCC'><b
 style='mso-bidi-font-weight:normal'><span lang=EN-US style='font-size:12.0pt;
